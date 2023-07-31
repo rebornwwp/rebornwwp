@@ -7,5 +7,5 @@
 - 🔭 I’m currently working on bytedance.
 - 🌱 I’m currently learning golang.
 - 💬 Ask me about docker, golang.
-- 📫 How to reach me: you can email to my by rebornwwp@gmail.com
+- 📫 How to reach me: you can email to me by rebornwwp@gmail.com
 - 😄 Pronouns: React, TypeScript, golang, AWS.
